@@ -1,0 +1,40 @@
+.body{
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+    
+
+}
+.banner{
+    background-image: url('image/pic1.jpg');
+    background-position: center;
+    background-size: cover;
+    padding: 300px 50px;
+    filter: brightness(0.7);
+    z-index: -1;
+}
+.navbar-nav{
+    font-size: 23px;
+    
+}
+.navbar-brand{
+    font-size:23px;
+}
+.img-profile{
+    height:300px;
+    width:300px;
+}
+.container{
+    background-color: rgb(235, 243, 250);
+}
+.bg{
+    text-align:center;
+    font-size: 20px;
+}
+.bg a i{
+font-size: 20px;
+}
+.banner-content{
+    text-align: end;
+    z-index: 12;
+}
